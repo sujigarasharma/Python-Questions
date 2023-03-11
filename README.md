@@ -1,4 +1,4 @@
-# Python_Practice_Questions
+# Python Practice Questions
 
 BMI_Calculation
 
